@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="jetty-dir.css" rel="stylesheet" />
+<title>Directory: /webjars/jquery/3.5.1/</title>
+</head>
+<body>
+<h1 class="title">Directory: /webjars/jquery/3.5.1/</h1>
+<table class="listing">
+<thead>
+<tr><th class="name"><a href="?C=N&O=D">Name&nbsp; &#8679;</a></th><th class="lastmodified"><a href="?C=M&O=A">Last Modified</a></th><th class="size"><a href="?C=S&O=A">Size</a></th></tr>
+</thead>
+<tbody>
+<tr><td class="name"><a href="/webjars/jquery/3.5.1/../">Parent Directory</a></td><td class="lastmodified">-</td><td>-</td></tr>
+<tr><td class="name"><a href="/webjars/jquery/3.5.1/jquery.js">jquery.js&nbsp;</a></td><td class="lastmodified">May 6, 2020, 5:32:34 AM&nbsp;</td><td class="size">287,630 bytes&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/jquery/3.5.1/jquery.min.js">jquery.min.js&nbsp;</a></td><td class="lastmodified">May 6, 2020, 5:32:34 AM&nbsp;</td><td class="size">89,476 bytes&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/jquery/3.5.1/jquery.min.map">jquery.min.map&nbsp;</a></td><td class="lastmodified">May 6, 2020, 5:32:34 AM&nbsp;</td><td class="size">137,974 bytes&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/jquery/3.5.1/jquery.slim.js">jquery.slim.js&nbsp;</a></td><td class="lastmodified">May 6, 2020, 5:32:34 AM&nbsp;</td><td class="size">234,458 bytes&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/jquery/3.5.1/jquery.slim.min.js">jquery.slim.min.js&nbsp;</a></td><td class="lastmodified">May 6, 2020, 5:32:36 AM&nbsp;</td><td class="size">72,380 bytes&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/jquery/3.5.1/jquery.slim.min.map">jquery.slim.min.map&nbsp;</a></td><td class="lastmodified">May 6, 2020, 5:32:36 AM&nbsp;</td><td class="size">110,370 bytes&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/jquery/3.5.1/webjars-requirejs.js">webjars-requirejs.js&nbsp;</a></td><td class="lastmodified">May 6, 2020, 5:32:34 AM&nbsp;</td><td class="size">204 bytes&nbsp;</td></tr>
+</tbody>
+</table>
+</body></html>

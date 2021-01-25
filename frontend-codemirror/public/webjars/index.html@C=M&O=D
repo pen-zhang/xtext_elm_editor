@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="jetty-dir.css" rel="stylesheet" />
+<title>Directory: /webjars/</title>
+</head>
+<body>
+<h1 class="title">Directory: /webjars/</h1>
+<table class="listing">
+<thead>
+<tr><th class="name"><a href="?C=N&O=A">Name</a></th><th class="lastmodified"><a href="?C=M&O=A">Last Modified&nbsp; &#8681;</a></th><th class="size"><a href="?C=S&O=A">Size</a></th></tr>
+</thead>
+<tbody>
+<tr><td class="name"><a href="/webjars/../">Parent Directory</a></td><td class="lastmodified">-</td><td>-</td></tr>
+<tr><td class="name"><a href="/webjars/codemirror/">codemirror/&nbsp;</a></td><td class="lastmodified">Jan 9, 2021, 10:26:10 AM&nbsp;</td><td class="size">&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/jquery/">jquery/&nbsp;</a></td><td class="lastmodified">May 6, 2020, 5:32:34 AM&nbsp;</td><td class="size">&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/requirejs/">requirejs/&nbsp;</a></td><td class="lastmodified">Nov 12, 2018, 5:21:12 AM&nbsp;</td><td class="size">&nbsp;</td></tr>
+<tr><td class="name"><a href="/webjars/ace/">ace/&nbsp;</a></td><td class="lastmodified">Jul 17, 2018, 11:34:08 AM&nbsp;</td><td class="size">&nbsp;</td></tr>
+</tbody>
+</table>
+</body></html>
