@@ -44,9 +44,9 @@ Such is the basic idea of the metamodel. Conditional, arithmetic, logic operatio
 
 Below are part of the diagram and tree representations.
 
-![image-20210318002748723](\Report.assets\image-20210318002748723.png)
+![image-20210318002748723](/Report.assets/image-20210318002748723.png)
 
-![image-20210318002355863](\Report.assets\image-20210318002355863.png)
+![image-20210318002355863](/Report.assets/image-20210318002355863.png)
 
 ### 2.2 Web Editor 
 
@@ -130,11 +130,11 @@ We choose the CodeMirror from three JavaScript text editor libraties supported b
 
 Because the default editor is Ace, we need to modify the MWE2 ( Modeling Workflow Engine) in order to start with the CodeMirror. MWE2 is like a configuration of the language generator. Change the framework in webSupport to "CodeMirror". Now, we can run MWE2 to generate our language. 
 
-![image-20210324164818561](\Report.assets\image-20210324164818561.png)
+![image-20210324164818561](/Report.assets/image-20210324164818561.png)
 
 Thus, we already have the web server which was generated for us. To start the web server, right click on the `*.web/` directory and choose `Run as -> Java Application`, search for the `ServerLauncher` of your project and confirm  with `OK`. We can look at the Example Expressions Web Editor in the browser.
 
-![image-20210324165333665](\Report.assets\image-20210324165333665.png)
+![image-20210324165333665](/Report.assets/image-20210324165333665.png)
 
 However, this editor only support default behaviors provided by Xtext service. It has the very basic content assist which provide context-based code completion, and validation which statically analyze codes and give informative feedback . We can continue to customized it to fulfill our requirements.
 
@@ -142,43 +142,43 @@ Here, we focused on the content assist support customization. The `*.ide` direct
 
 
 
-![image-20210324170743159](\Report.assets\image-20210324170743159.png)
+![image-20210324170743159](/Report.assets/image-20210324170743159.png)
 
 [^3 ]: Xtend is a statically-typed programming language which translates to comprehensible Java source code. It is used by default. You can also choose Java instead.
 
 `OnlineElmWebContentProposalProvider` extends from `IdeContentProposalProvider` and is used to create proposals based on RuleCall, Keyword, Assignment, CrossReference. Let us look a simple example of create proposals for Color Rule. This is used in "Filled" rule for choosing a color. We can use switch cases to determine the current context based on `OnlineElmGrammarAccess` in the function `override dispatch createProposals(RuleCall ruleCall, ContentAssistContext context, IIdeContentProposalAcceptor acceptor)` . The final results is as follows after we registers `OnlineElmWebContentProposalProvider` at the `OnlineElmIdeModule` in the same project.
 
-![image-20210324201813034](\Report.assets\image-20210324201813034.png)
+![image-20210324201813034](/Report.assets/image-20210324201813034.png)
 
 
 
-![image-20210324201919241](\Report.assets\image-20210324201919241.png)
+![image-20210324201919241](/Report.assets/image-20210324201919241.png)
 
 
 
-![image-20210324202503471](\Report.assets\image-20210324202503471.png)
+![image-20210324202503471](/Report.assets/image-20210324202503471.png)
 
 
 
-![image-20210324202142713](\Report.assets\image-20210324202142713.png)
+![image-20210324202142713](/Report.assets/image-20210324202142713.png)
 
 `ContentAssistEntry` is the entry point for the proposal. It also declares other properties which can be used to make further modifications. As follows, we can pass the typed text length of current `Filled` assignment in the `Draw` rule. In the web editor, CodeMirror can get this property to achieve the replacement of current "Filled" text when inserting a new proposal.
 
-![image-20210324211539412](\Report.assets\image-20210324211539412.png)
+![image-20210324211539412](/Report.assets/image-20210324211539412.png)
 
 `OnlineElmTemplateProposalProvider` is another choice to create proposal. It extends `AbstractIdeTemplateProposalProvider`, and create String template proposal.  For creating a MainShape proposal, we can define a function `CreateMainShapeProposal`. Then we still need to inject this class into `OnlineElmWebContentAssistProvider`, and invoke this function in the function based on RuleCall.
 
-![image-20210324205826484](\Report.assets\image-20210324205826484.png)
+![image-20210324205826484](/Report.assets/image-20210324205826484.png)
 
 
 
-![image-20210324210432839](\Report.assets\image-20210324210432839.png)
+![image-20210324210432839](/Report.assets/image-20210324210432839.png)
 
 As for the `OnlineElmCrossRefProposalProvider` class, we can define proposals for CrossReference. But these proposals have been implemented in the previous file. Here, only a empty function is created to override the default proposals.
 
 After we finish all custom actions, we can export this language server of Xtext service packed in a runnable JAR by `Export...` in menu. This language server will provide all xtext service for the web editor we will developed later.
 
-![image-20210324212615760](\Report.assets\image-20210324212615760.png)
+![image-20210324212615760](/Report.assets/image-20210324212615760.png)
 
 
 
@@ -237,7 +237,7 @@ this.xtextEditor = window._xtext.createEditor({
 ```
 Below is the final web page.
 
-<img src="\Report.assets\image-20210324214213409.png" alt="image-20210324214213409" style="zoom: 50%;" />
+<img src="/Report.assets/image-20210324214213409.png" alt="image-20210324214213409" style="zoom: 50%;" />
 
 ### 3.3 Back-end Server
 
