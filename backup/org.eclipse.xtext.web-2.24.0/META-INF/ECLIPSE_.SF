@@ -1,0 +1,330 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: auSi3puwLHzBgRVQa3MglM227nVzZ
+ d0l9HBXoDQeI1U=
+SHA-256-Digest-Manifest: lEI+zAQv9f9nVmyYdjJX9Ja2Q5TxqAL5x/Lgd5qcMjY=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: org/eclipse/xtext/web/server/util/CancelIndicatorProgressMonitor
+ .class
+SHA-256-Digest: OFDYbqn/b7hVaL6tA0tVdYbybiUE5m7z+GyOZJdaMrE=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-ace.js
+SHA-256-Digest: /Lk3gXjuYaBGvlG0VC3jSEDdwJhgP2gZVkOrgIos62g=
+
+Name: org/eclipse/xtext/web/server/syntaxcoloring/HighlightingService.
+ class
+SHA-256-Digest: Zqjcr81lyTI1rPM9umeOKDXtnd8n6FrddKVrQwUD9jI=
+
+Name: org/eclipse/xtext/web/server/InvalidRequestException.class
+SHA-256-Digest: mc5l5mcdOKqB9WcLHzI8Exy63fXDdv2Yb+gtKHfVEr0=
+
+Name: org/eclipse/xtext/web/server/model/DocumentStateResult.class
+SHA-256-Digest: ACo4kAJenZyuF8+tHkTo7REuEa3PwTvlCP3KU6Qt42o=
+
+Name: org/eclipse/xtext/web/server/persistence/ResourcePersistenceServ
+ ice.class
+SHA-256-Digest: LQyIFXffrjJaRT0lMtAf91eHrtGJ4F3OKqS3ycOyV9M=
+
+Name: org/eclipse/xtext/web/server/model/XtextWebDocument.class
+SHA-256-Digest: Z+ddetviuTmUv80xZBlfusXKRBvpOw6FSqJtlZs9OP8=
+
+Name: org/eclipse/xtext/web/server/InvalidRequestException$ResourceNot
+ FoundException.class
+SHA-256-Digest: JrRagRXYhPwnsY2yIyFVCGwbPxB4eguP6D0HznL3Blg=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-orion.min.js
+SHA-256-Digest: 2dTNmiu8HxgrY3RZVGYzlAUR8LgBL/XkGTD3Bft+eEA=
+
+Name: org/eclipse/xtext/web/server/formatting/FormattingResult.class
+SHA-256-Digest: 9eEx3826xwnRY33Tsx0dNOufIiesiOBC5BbnVrisDss=
+
+Name: org/eclipse/xtext/web/server/generator/GeneratorResult.class
+SHA-256-Digest: yM9C7W6vriqHkH1fJvbYOqxs3zBE8NedUoxarsiRJjo=
+
+Name: org/eclipse/xtext/web/server/persistence/ResourceBaseProviderImp
+ l.class
+SHA-256-Digest: KGQcENcg931sxp2xZetlE6VuAc83Q9d6oARe21BdBvA=
+
+Name: org/eclipse/xtext/web/server/ISession.class
+SHA-256-Digest: JsKuJBmMoeCt42xTutf1EwDahKDImlM0A28pq8jrvbI=
+
+Name: org/eclipse/xtext/web/server/model/UpdateDocumentService.class
+SHA-256-Digest: vSBozfImXSV0TeN5nQC4NwgRlpedkORRfB40X8KtRCI=
+
+Name: META-INF/resources/xtext/2.24.0/images/error_co.gif
+SHA-256-Digest: /8ULjCvUunw6QhZphfR9GgEWRYhgaiydbOoQrWDKJKI=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-codemirror.js
+SHA-256-Digest: BHBJEq0grcXLaFabXK5ZzGKjO3k3aOATbkEdAarS0ac=
+
+Name: org/eclipse/xtext/web/server/hover/HoverService$2$1.class
+SHA-256-Digest: C1wINkkKFI905u1vu9T9ZyhRmiBir6ny+1iOX4iaYPw=
+
+Name: META-INF/resources/xtext/2.24.0/images/default-icon.gif
+SHA-256-Digest: /xdhRQ2fXVqMRaWOR+h7+DhZxyQB2N7eTKa+Kddbmzw=
+
+Name: org/eclipse/xtext/web/server/contentassist/ContentAssistService.
+ class
+SHA-256-Digest: yFO8bQoXvN/uDcEzXII1CsobSz5/3+WEO6kIq0B7KkU=
+
+Name: org/eclipse/xtext/web/server/DefaultWebModule.class
+SHA-256-Digest: NAlAepm0/6n+fR8WBJ+LwWwRu3oLmQas5iYHU4zzdhY=
+
+Name: org/eclipse/xtext/web/server/generator/GeneratorService.class
+SHA-256-Digest: UKISJJ9PAMjmJO5bjsaG7mMnomaN9PcJEOoXue2nMvs=
+
+Name: org/eclipse/xtext/web/server/model/UpdateDocumentService$2.class
+SHA-256-Digest: CayqKdr3MLvLvSJyw8fSoWyBLJHRWMJvq71Iw5qlRpk=
+
+Name: org/eclipse/xtext/web/server/model/UpdateDocumentService$5.class
+SHA-256-Digest: HLPOq3TFMjabW6LzVFaBG34YHANENTO1G8CNTLI9H+4=
+
+Name: org/eclipse/xtext/web/server/occurrences/OccurrencesService$1.cl
+ ass
+SHA-256-Digest: +qbNIeqt4jWlLnpW8NQMcjuASEg2OAekBxNgus3Xifs=
+
+Name: org/eclipse/xtext/web/server/model/UpdateDocumentService$1.class
+SHA-256-Digest: zaV4+Rp2Rjuqkty/CnG+WH1YYXrF4sEeD2afq9L5aQw=
+
+Name: org/eclipse/xtext/web/server/syntaxcoloring/HighlightingResult.c
+ lass
+SHA-256-Digest: WID4elM/aF7peLh5hDwsEkVmz93Uh2cMYMtq6ySMskM=
+
+Name: org/eclipse/xtext/web/server/model/XtextWebDocumentAccess$2.clas
+ s
+SHA-256-Digest: R6NVTdy78nQDEltxp5XRpjRUP+L/9sMxqB9SCkKZ12U=
+
+Name: org/eclipse/xtext/web/server/contentassist/ContentAssistService$
+ 2.class
+SHA-256-Digest: 56SUfXP+186EJ9e9ORypf5aHNP+a1yjjxSmS3USyoU4=
+
+Name: org/eclipse/xtext/web/server/model/AbstractCachedService.class
+SHA-256-Digest: H4nnJ14YELj2OoZg6SmGb7qZdH8TjQryRdK/igs6FhQ=
+
+Name: org/eclipse/xtext/web/server/IServiceContext.class
+SHA-256-Digest: nQ2TrHCk8pI+L8sYWNh/cJLUOcJpIRjIG4BsX1IUtNs=
+
+Name: org/eclipse/xtext/web/server/validation/ValidationService$1.clas
+ s
+SHA-256-Digest: 5X+c1x/A9XKCWC0+HS5IzCqrMK1VmXJE/Er01PIs2DE=
+
+Name: META-INF/resources/xtext/2.24.0/images/error_an.gif
+SHA-256-Digest: dNO2POjsh42svS6k6B+oUxP+0EF+qH0AMhrrpQy4uwU=
+
+Name: org/eclipse/xtext/web/server/generator/GeneratorService$Generate
+ dArtifacts.class
+SHA-256-Digest: F5mm0G0StT2XOtrfJzw2Bcd/pohmsLcOrGlo+zJgeVM=
+
+Name: org/eclipse/xtext/web/server/validation/ValidationService.class
+SHA-256-Digest: ToQ2tVZQRpygcO9HAd+0WK2sj8HElwcVJwkoaXMOJvI=
+
+Name: org/eclipse/xtext/web/server/InvalidRequestException$InvalidPara
+ metersException.class
+SHA-256-Digest: ndvv+dVFwFZ6/fMZzi68j6ysLG+4pcjsP+Huli+wdwc=
+
+Name: org/eclipse/xtext/web/server/model/UpdateDocumentService$4.class
+SHA-256-Digest: O4PK+khoiNXmyplpc6mxGhaTgb/i+FCtVU3ifNJMHcg=
+
+Name: META-INF/resources/xtext/2.24.0/images/warning_an.gif
+SHA-256-Digest: NTyoJ/b1uv0BsQjFdp5LL17AlxXct9b3lrY+hho26Qs=
+
+Name: org/eclipse/xtext/web/server/InvalidRequestException$UnknownLang
+ uageException.class
+SHA-256-Digest: B4QfrGumT26DjUKoRRq0ol/OFalT2KdCJEXKur1SHVk=
+
+Name: org/eclipse/xtext/web/server/model/IWebResourceSetProvider$Defau
+ ltImpl.class
+SHA-256-Digest: 0Zn8blNonZdY8HgKiKbWi+WyjyB5MRE9z7V8VANlkNQ=
+
+Name: org/eclipse/xtext/web/server/model/IWebDocumentProvider.class
+SHA-256-Digest: GI+vl7XN+Dy+knP+lUX9vGSCgQ8xH7ah+WIoz17Dj3c=
+
+Name: org/eclipse/xtext/web/server/InvalidRequestException$PermissionD
+ eniedException.class
+SHA-256-Digest: Swc25nLevN1T5RODAP9zLbr3t22ZmyIAdmt+QLGjM1o=
+
+Name: org/eclipse/xtext/web/server/XtextServiceDispatcher$ServiceDescr
+ iptor.class
+SHA-256-Digest: WMsptfojSRHj2EGFwnkugcleP5twC2aA/BuvfJR/5MQ=
+
+Name: org/eclipse/xtext/web/server/model/DocumentSynchronizer.class
+SHA-256-Digest: /KocM/dm6ADmBBldtaT7/sF7cSZ7ES3SoD1OE7eYy3s=
+
+Name: org/eclipse/xtext/web/server/persistence/ResourcePersistenceServ
+ ice$2.class
+SHA-256-Digest: LMPE8WPZscVjcA9he+HM4SQxhLxGNjFuSpiZxRcdngY=
+
+Name: org/eclipse/xtext/web/server/persistence/IServerResourceHandler.
+ class
+SHA-256-Digest: wdYbmN/PXwRPFVt+8XqrxeuaCdeNC7s9j7225Dka2PQ=
+
+Name: org/eclipse/xtext/web/server/formatting/FormattingService$1.clas
+ s
+SHA-256-Digest: q932N8yz6AybBuoYd3uIwQCnnOFDvte5P47zJ1jambk=
+
+Name: org/eclipse/xtext/web/server/hover/HoverService.class
+SHA-256-Digest: j3q36H7e713Pltf/PTJABjxxuhBiU5SbVNksopswOdc=
+
+Name: org/eclipse/xtext/web/server/model/IWebResourceSetProvider.class
+SHA-256-Digest: cQTJYF0uxBX1f6NL6jB25go7CmJc4zuQSsWlXhbmebg=
+
+Name: org/eclipse/xtext/web/server/IServiceResult.class
+SHA-256-Digest: imK1M9BHM76JkCtMm+BGB/6JIOsEFsXrcgcVu3gZ2BE=
+
+Name: org/eclipse/xtext/web/server/hover/HoverService$2.class
+SHA-256-Digest: 3CFZ39Rrpa81inJW7ivkdDep8WGXLbkMsKXk65VwwCc=
+
+Name: org/eclipse/xtext/web/server/util/ElementAtOffsetUtil.class
+SHA-256-Digest: gf/nYoSgULXL1nJVTG55rELwo1YrAmJtSyZmrqnEgRo=
+
+Name: org/eclipse/xtext/web/server/formatting/FormattingService.class
+SHA-256-Digest: j3675cuOBsBcPgKRO+JfonEW98mz68vNg1Gws3Quj60=
+
+Name: org/eclipse/xtext/web/server/InvalidRequestException$InvalidDocu
+ mentStateException.class
+SHA-256-Digest: JpYpjvFdTenRz/QR9vu9BewOi6+/+AOUhmZ95KOFGkE=
+
+Name: org/eclipse/xtext/web/server/occurrences/OccurrencesService$1$1.
+ class
+SHA-256-Digest: 5iW2pBmWB9nSAXgQlQEqz/93MBJYemweBKAJu1zQVW8=
+
+Name: org/eclipse/xtext/web/server/persistence/IResourceBaseProvider.c
+ lass
+SHA-256-Digest: rK7yIRwi5KA+rRqs681Mbz32TEJ8ICSXZ6BHGJPfl8I=
+
+Name: org/eclipse/xtext/web/server/IUnwrappableServiceResult.class
+SHA-256-Digest: aymqsESD1c9dbBLPAh26J3LHDSCByKs25JO0SjVz3Xg=
+
+Name: org/eclipse/xtext/web/server/contentassist/ContentAssistService$
+ 3.class
+SHA-256-Digest: cJ25jrCbAs88QgmbwJoj4myqOhTeiHhc5t82JyH1VWg=
+
+Name: org/eclipse/xtext/web/server/model/XtextWebDocumentAccess$ReadAc
+ cess.class
+SHA-256-Digest: WnweVAoLb5+Ai5RHbaqtQHm0mra7XBT/84tDn3eb14w=
+
+Name: org/eclipse/xtext/web/server/validation/ValidationResult$Issue.c
+ lass
+SHA-256-Digest: v4UdC5KvqCl2/kU7ckNdMD8xFuePUKfcL9vX0wg8rSQ=
+
+Name: org/eclipse/xtext/web/server/persistence/FileResourceHandler.cla
+ ss
+SHA-256-Digest: cHbINOuoFQ1S2fAjXNnIsfy8K7VZjLLXo4z7Zq/l6Tg=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-orion.js
+SHA-256-Digest: SZnlm3t+cZ7X29DOpbgt8hy0IPUFuMkOLJ3V1R79Mg0=
+
+Name: org/eclipse/xtext/web/server/model/XtextWebDocumentAccess$3.clas
+ s
+SHA-256-Digest: gknDxk3ZSepZ0Zf6NrCSKfSuI/CKe6LnXT84W4T8DZE=
+
+Name: org/eclipse/xtext/web/server/persistence/ResourceContentResult.c
+ lass
+SHA-256-Digest: dCDGkSlsjk7K/YkOmPXpErCyUPiWOKuYgX5W5kJKZyI=
+
+Name: org/eclipse/xtext/web/server/contentassist/ContentAssistResult.c
+ lass
+SHA-256-Digest: ZxIz+Tngb3KQpjdJmTlaohESRl3j1LcSFZ600quvKMM=
+
+Name: org/eclipse/xtext/web/server/generator/DefaultContentTypeProvide
+ r.class
+SHA-256-Digest: ImH90+8YN8D9xHDji0tjBnMXvFemkECaDuX5wOoNYys=
+
+Name: org/eclipse/xtext/web/server/syntaxcoloring/HighlightingResult$R
+ egion.class
+SHA-256-Digest: GN9dNcCrBQTdiqs/DE6b7CehkyM9F5F4+IoVGk3NrEo=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-orion.css
+SHA-256-Digest: gQyGhIeigbOZbOmsMdM2vv07Z6AXfUFr6JB04lBkadc=
+
+Name: org/eclipse/xtext/web/server/model/IXtextWebDocument.class
+SHA-256-Digest: QIxPbWJpvwWqus+g6zr76RJbDpr2DBp5k6yF4iPBvoY=
+
+Name: org/eclipse/xtext/web/server/ServiceConflictResult.class
+SHA-256-Digest: mLkXmPf3hCQNhekue40rpuEEjZxXKxYL8hb+xigAffI=
+
+Name: org/eclipse/xtext/web/server/hover/HoverService$1.class
+SHA-256-Digest: XItPUp/4c+wnn5kR3Dze35S3vnW2tduNH7aWWOw4kbo=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-ace.min.js
+SHA-256-Digest: N0z4pi1lQLQJpH1M51BF2ZpGxlYCLjzGktr4NnKezKs=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-codemirror.min.js
+SHA-256-Digest: SHs/UgYVhJR3KFXWiVq0sCahyKfWrA8RljU3oROqjmk=
+
+Name: org/eclipse/xtext/web/server/XtextServiceDispatcher$1.class
+SHA-256-Digest: qnkUMSRwphjCoyHKnJDJex7NOtIEoOsIkszq+Rt/H1E=
+
+Name: org/eclipse/xtext/web/server/generator/IContentTypeProvider.clas
+ s
+SHA-256-Digest: AISE59Xpmh1jM2rNUZU8f3+WE5kQ+Ls/n5WVWzbVczI=
+
+Name: org/eclipse/xtext/web/server/formatting/FormattingService$2.clas
+ s
+SHA-256-Digest: q2JoAJy0Ca279tkxwgYVFYy0EYqupcOsE5nmfLSIF2o=
+
+Name: org/eclipse/xtext/web/server/model/XtextWebDocumentAccess$Factor
+ y.class
+SHA-256-Digest: YqXz6ma1dHhfNlRE8zmBDDqLPsK5YAw4raLfph6kzyw=
+
+Name: org/eclipse/xtext/web/server/occurrences/OccurrencesService.clas
+ s
+SHA-256-Digest: 20UVnOFS7okK6BuV75jXAThRRNSakGZhVSWaQm9c38Y=
+
+Name: org/eclipse/xtext/web/server/model/PrecomputedServiceRegistry.cl
+ ass
+SHA-256-Digest: oJH8pWXKcYp4OwJIDKWALoAcFU704mUjb318Wu5jQ54=
+
+Name: org/eclipse/xtext/web/server/XtextServiceDispatcher.class
+SHA-256-Digest: SE5Fo6IXnlvdFZyEzPihgD4OiGdf2xhVo8aevZSED+Q=
+
+Name: org/eclipse/xtext/web/server/persistence/ResourcePersistenceServ
+ ice$1.class
+SHA-256-Digest: QM0Db1CoSeW+kuWKr4VHFiaGerwcN/b3C12bYIMe7PY=
+
+Name: org/eclipse/xtext/web/server/model/UpdateDocumentService$3.class
+SHA-256-Digest: Y1eOOXa/S6LlH7YxRRhviCFEcvW3fhZXtHZb4alZL+k=
+
+Name: org/eclipse/xtext/web/server/model/XtextWebDocumentAccess.class
+SHA-256-Digest: DSr8lA49/SvdwPVV098UwKDGEFGEJxDz26AuuRP/6Gs=
+
+Name: org/eclipse/xtext/web/server/hover/HoverResult.class
+SHA-256-Digest: MYfRUmbPPfWGr/f8QuBBVQnqXN5BVHCQuSFXhUnog7I=
+
+Name: META-INF/resources/xtext/2.24.0/images/warning_co.gif
+SHA-256-Digest: FHGYwPtj45D+oDUTQI9INEfqp6iur5/iumyfaeipVbo=
+
+Name: org/eclipse/xtext/web/server/contentassist/ContentAssistService$
+ 1.class
+SHA-256-Digest: BzNh/mB73uTukuimF2gwPBYuGrrisOzvKp7xaXXanFs=
+
+Name: META-INF/resources/xtext/2.24.0/images/info_an.gif
+SHA-256-Digest: 4tFCoxp75U6RPeIx85ODyJym2wSOcDu0Y4BqLKCvxig=
+
+Name: org/eclipse/xtext/web/server/persistence/IServerResourceHandler$
+ NullImpl.class
+SHA-256-Digest: +zyX0NHsG1Rzr/KQoDriayas4NTEEi6w735YX3VFiZY=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-codemirror.css
+SHA-256-Digest: /4dgbCByZv7AKmsYD8q5nEpjvTOvQH8zw9uX1DnC2dE=
+
+Name: org/eclipse/xtext/web/server/model/IWebDocumentProvider$DefaultI
+ mpl.class
+SHA-256-Digest: WmFy8xb5E4QthxWedOXSp8FTf+j9Fk05b5TZvhXGlAE=
+
+Name: META-INF/resources/xtext/2.24.0/xtext-ace.css
+SHA-256-Digest: AMj8P7h1/32NyHV1sH4ZdsK0jtDjpVuyywOQeQqLW50=
+
+Name: org/eclipse/xtext/web/server/validation/ValidationResult.class
+SHA-256-Digest: Fut/VPeveMqluglKLFxhkohG+Gmo2od2CbpEbzw/7qI=
+
+Name: org/eclipse/xtext/web/server/model/XtextWebDocumentAccess$1.clas
+ s
+SHA-256-Digest: SkfnpTjJGEd4zMIzcb78xuD3t7ArSjUESTOYyuwmDFM=
+
+Name: org/eclipse/xtext/web/server/occurrences/OccurrencesResult.class
+SHA-256-Digest: /b17Vr9JHQgVVSqJ75RhMyNLJbaO16Pgen29/K6N2is=
+
+Name: org/eclipse/xtext/web/server/ISession$NullImpl.class
+SHA-256-Digest: pNLlmjNc8kqDeKv1F7mj+PxNtyFbqzgYdwxKkbdP86w=
+

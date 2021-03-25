@@ -1392,7 +1392,7 @@ define('xtext/xtext-codemirror',[
     'xtext/compatibility',
     'xtext/ServiceBuilder',
 	'xtext/CodeMirrorEditorContext',
-	'codemirror/mode/elm/elm'
+	'codemirror/mode/javascript/javascript'
 ], function(jQuery, CodeMirror, ShowHint, compatibility, ServiceBuilder, EditorContext) {
 	
 	var exports = {};
@@ -1570,6 +1570,7 @@ define('xtext/xtext-codemirror',[
 			params.offset = editor.indexFromPos(cursor);
 			services.contentAssistService.invoke(editorContext, params).done(function(entries) {
 				editor.showHint({hint: function(editor, options) {
+					console.log(editorContext);
 					return {
 						list: entries.map(function(entry) {
 							var displayText;
@@ -1578,20 +1579,28 @@ define('xtext/xtext-codemirror',[
 							else
 								displayText = entry.proposal;
 							if (entry.description)
-								displayText += ' (' + entry.description + ')';
+								displayText += ' - ' + entry.description;
 							var prefixLength = 0
 							if (entry.prefix)
 								prefixLength = entry.prefix.length
+							var escapePos = 0
+							if (entry.escapePosition)
+								escapePos = entry.escapePosition
+							console.log(entry.escapePosition)
 			    			return {
 			    				text: entry.proposal,
 			    				displayText: displayText,
 			    				from: {
 			    					line: cursor.line,
 			    					ch: cursor.ch - prefixLength
+			    				},
+			    				to: {
+			    					line: cursor.line,
+			    					ch: cursor.ch - ( escapePos==0? 0 :(prefixLength - escapePos))
 			    				}
 			    			};
-						}),
-						to: cursor
+						})
+						
 					};
 				}});
 			});

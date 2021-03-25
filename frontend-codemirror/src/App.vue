@@ -58,12 +58,13 @@ export default {
         this.xtextEditor = window._xtext.createEditor({
           baseUrl: "/",
           serviceUrl: `${protocol}${baseUrl}xtext-service`,
-          systaxDefinition: `xtext-resources/generated/mode-${this.dslFileExtension}.js`,
+          // syntaxDefinition: `xtext-resources/generated/mode-${this.dslFileExtension}.js`,
+          syntaxDefinition: "xtext-resources/generated/mode-oe.js",
           enableCors: true,
           lineNumbers: true,
-          value: "myShapes =",
-          theme: "eclipse",
-          mode: `elm`,
+          value: "myShapes time = [\n  circle 50 |> filled red\n  ]",
+          theme: "idea",
+          mode: "elm",
           extraKeys: {
             "Ctrl-Enter": this.compileToElm
           },
